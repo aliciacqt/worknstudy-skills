@@ -6,34 +6,34 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ✔️
+- les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
 ```javascript
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
-
-Description :
-
-### J'ai utilisé ce langage en production ❌ / ✔️
-
-[lien du projet](...)
+[Projet de groupe de la formation (GreenFoot)](https://github.com/WildCodeSchool/2023-11-wns-bleu-g3)
 
 Description :
+Calculateur d'émissions de CO2, à destination des particuliers, afin de sensibiliser à l'empreinte carbone des diverses activités du quotidien.
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en production ✔️
+
+Voir ci-dessus.
+
+### J'ai utilisé ce langage en environement professionnel ✔️
 
 Description :
+Lors des périodes en entreprise, je travaille sur un unique projet, codé, entre autres, en Javascript.
 
 ## 🌐 J'utilise des ressources
 
